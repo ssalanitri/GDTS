@@ -3,7 +3,7 @@ Windows Deployment Tools LIbraries
 
 General Goals:
 
-Scriptsfiles to configure the deployment features.
+Scripts files to configure the deployment features.
 Pluggable architecture
 DataBase model to register the configuration, permissions, versions, logging tracking , log errors, at son on.
 Web-based dashboard to configure the permissions, the schedules, run the deployment script on demand, view reports at son on.
