@@ -1,5 +1,5 @@
 # WDTS
-Windows Deployment Tools LIbraries
+Windows Deployment Tools System
 
 General Goals:
 
