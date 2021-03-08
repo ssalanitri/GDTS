@@ -1,6 +1,6 @@
-# WDTS
+# GDTS
 
-Windows Deployment Tools System
+Generic Deployment Tools System
 
 General Goals:
 
